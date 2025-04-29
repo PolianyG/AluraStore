@@ -57,7 +57,7 @@ Os principais fatores que levam a essa decisão são:
 
 - Menor média de avaliação dos clientes (3,98), indicando menor satisfação e possível dificuldade em fidelizar compradores.
 
-- Desempenho abaixo da média em categorias importantes, como instrumentos musicais e utilidades domésticas.
+- Desempenho abaixo da média em categorias importantes.
 
 - Desempenho apenas mediano nas demais categorias, sem grande destaque competitivo.
 
